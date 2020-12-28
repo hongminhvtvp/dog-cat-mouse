@@ -1,6 +1,8 @@
 function Cat() {
 	// body...
 
+	this.stomach=[];
+
 }
 
-module.export=Cat;
+module.exports=Cat;
